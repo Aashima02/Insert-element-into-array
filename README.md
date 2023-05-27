@@ -1,4 +1,4 @@
-# EXP 5 -  Inserting element into an Array
+# EXP 7 -  Inserting element into an Array
 
 ## AIM:
 
